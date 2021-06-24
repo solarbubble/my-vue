@@ -48,7 +48,9 @@
 
             // 播放
             video.srcObject = stream;
-            video.play();
+            video.onloadedmetadata = function(e) {
+                video.play();
+            };
             mediaStreamTrack = stream
         }
 
