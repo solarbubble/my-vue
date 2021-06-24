@@ -27,10 +27,10 @@
         function getUserMedia(constraints, success, error) {
             // if (navigator.mediaDevices.getUserMedia) {
             //     //最新的标准API
-            //     navigator.mediaDevices.getUserMedia(constraints).then(success).catch(error);
+                navigator.mediaDevices.getUserMedia(constraints).then(success).catch(error);
             // } else if (navigator.webkitGetUserMedia) {
             //     //webkit核心浏览器
-                navigator.webkitGetUserMedia(constraints, success, error)
+            //     navigator.webkitGetUserMedia(constraints, success, error)
             // } else if (navigator.mozGetUserMedia) {
             //     //firfox浏览器
             //     navigator.mozGetUserMedia(constraints, success, error);
@@ -56,7 +56,8 @@
             alert('调用摄像头失败')
         }
 
-        if (navigator.webkitGetUserMedia) {
+        // if (navigator.mediaDevices.getUserMedia || navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia) {
+        if (navigator.mediaDevices.getUserMedia) {
             getUserMedia({ video: { width: 100, height: 100,  facingMode: { exact: "environment" } } }, success, error);
         } else {
             alert('不支持访问用户媒体');
