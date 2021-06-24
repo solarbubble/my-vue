@@ -57,7 +57,7 @@
         }
 
         if (navigator.mediaDevices.getUserMedia || navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia) {
-            getUserMedia({ video: { width: 100, height: 100 } }, success, error);
+            getUserMedia({ video: { width: 100, height: 100,  facingMode: { exact: "environment" } } }, success, error);
         } else {
             alert('不支持访问用户媒体');
         }
