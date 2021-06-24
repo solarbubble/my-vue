@@ -47,7 +47,7 @@
             video.src = CompatibleURL.createObjectURL(stream);
 
             // 播放
-            // video.srcObject = stream;
+            video.srcObject = stream;
             video.play();
             mediaStreamTrack = stream
         }
