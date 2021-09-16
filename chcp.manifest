@@ -16,10 +16,6 @@
     "hash": "8571b0caa836a363cec12fb04ab72989"
   },
   {
-    "file": "css/chunk-230217a0.0b606b54.css",
-    "hash": "8c0ab18ae5d9ad114c96d0ca48a87d05"
-  },
-  {
     "file": "css/chunk-24bcd976.e65d3229.css",
     "hash": "97276151bf121328862af1f631b98aeb"
   },
@@ -64,6 +60,10 @@
     "hash": "240c9f6ef4921f2cc74eaa38cb4d74e7"
   },
   {
+    "file": "css/chunk-f3cc92da.189793fe.css",
+    "hash": "d9ed0e89110b937cfb30a594398aa7c0"
+  },
+  {
     "file": "css/chunk-vendors.dde5a539.css",
     "hash": "8b722e51e8e631de2d789a5ed535c3fe"
   },
@@ -101,15 +101,15 @@
   },
   {
     "file": "index.html",
-    "hash": "757156c8953dfb3412ebd000f82d0850"
+    "hash": "27e2bc027d64017f821aa846eb7fe24b"
   },
   {
-    "file": "js/app.9686c308.js",
-    "hash": "c0b8180b66f398a90037af18a3449b9c"
+    "file": "js/app.af0b105f.js",
+    "hash": "01b76f13c3ee0240c694026666017b89"
   },
   {
-    "file": "js/app.9686c308.js.map",
-    "hash": "bcb60479ca658dc910ca742b7b08f5e3"
+    "file": "js/app.af0b105f.js.map",
+    "hash": "5a4c9fe5cc27a705eda256b10fe302c3"
   },
   {
     "file": "js/chunk-09f13312.4b8d2456.js",
@@ -134,14 +134,6 @@
   {
     "file": "js/chunk-1fe08ddc.f2db8f65.js.map",
     "hash": "f92a97ada3449800b262a9257a50e227"
-  },
-  {
-    "file": "js/chunk-230217a0.6fef93c5.js",
-    "hash": "f940d1f12c4bb7889f94bc71dab1e4b2"
-  },
-  {
-    "file": "js/chunk-230217a0.6fef93c5.js.map",
-    "hash": "cec0fb3ce3fbdda354c6e3dbee0d4366"
   },
   {
     "file": "js/chunk-24bcd976.177fa4a9.js",
@@ -230,6 +222,14 @@
   {
     "file": "js/chunk-ef211c80.a2eeca49.js.map",
     "hash": "1b3cad506fdd82cb69b4d13bf7f73a09"
+  },
+  {
+    "file": "js/chunk-f3cc92da.3932152f.js",
+    "hash": "6437417f8080672bf4261f1da69f3a52"
+  },
+  {
+    "file": "js/chunk-f3cc92da.3932152f.js.map",
+    "hash": "6bc6fdd8dfc5b0795c185c23bb00065b"
   },
   {
     "file": "js/chunk-vendors.5570ca2c.js",
