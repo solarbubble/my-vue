@@ -1,7 +1,7 @@
 [
   {
-    "file": "css/app.f5c85a57.css",
-    "hash": "24d2faf28334cba8bf931f771e6eac8a"
+    "file": "css/app.f4429ca1.css",
+    "hash": "7adf1d107871f5c5ff180034e0c528d1"
   },
   {
     "file": "css/chunk-09f13312.cf6ea22a.css",
@@ -32,6 +32,10 @@
     "hash": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
+    "file": "css/chunk-533f1d31.341ac538.css",
+    "hash": "bd7924f3fa3caa7424dd216870ab45ad"
+  },
+  {
     "file": "css/chunk-66fcf9b1.e4fd8f56.css",
     "hash": "9405621cc7cacb3c4aca032bb9cb66bd"
   },
@@ -58,10 +62,6 @@
   {
     "file": "css/chunk-ef211c80.6a5a23de.css",
     "hash": "240c9f6ef4921f2cc74eaa38cb4d74e7"
-  },
-  {
-    "file": "css/chunk-f3cc92da.189793fe.css",
-    "hash": "d9ed0e89110b937cfb30a594398aa7c0"
   },
   {
     "file": "css/chunk-vendors.dde5a539.css",
@@ -101,15 +101,15 @@
   },
   {
     "file": "index.html",
-    "hash": "27e2bc027d64017f821aa846eb7fe24b"
+    "hash": "3153501ac838bfc3baec6233c652bd56"
   },
   {
-    "file": "js/app.af0b105f.js",
-    "hash": "01b76f13c3ee0240c694026666017b89"
+    "file": "js/app.516ffd0d.js",
+    "hash": "ca2a2b0d2cc53cf1363d9ab5f2569176"
   },
   {
-    "file": "js/app.af0b105f.js.map",
-    "hash": "5a4c9fe5cc27a705eda256b10fe302c3"
+    "file": "js/app.516ffd0d.js.map",
+    "hash": "d9d63a8415d35cf7147918ee4faf4c71"
   },
   {
     "file": "js/chunk-09f13312.4b8d2456.js",
@@ -168,6 +168,14 @@
     "hash": "8982f215f95d99829191fc3b05d4fb27"
   },
   {
+    "file": "js/chunk-533f1d31.cce51ad1.js",
+    "hash": "276bea8c532db247e45d16ccfbca953c"
+  },
+  {
+    "file": "js/chunk-533f1d31.cce51ad1.js.map",
+    "hash": "dbd85832a766ed2b089f403d6c7a3245"
+  },
+  {
     "file": "js/chunk-66fcf9b1.e9779735.js",
     "hash": "264dfe00499d0069edae5290a761dc10"
   },
@@ -222,14 +230,6 @@
   {
     "file": "js/chunk-ef211c80.a2eeca49.js.map",
     "hash": "1b3cad506fdd82cb69b4d13bf7f73a09"
-  },
-  {
-    "file": "js/chunk-f3cc92da.3932152f.js",
-    "hash": "6437417f8080672bf4261f1da69f3a52"
-  },
-  {
-    "file": "js/chunk-f3cc92da.3932152f.js.map",
-    "hash": "6bc6fdd8dfc5b0795c185c23bb00065b"
   },
   {
     "file": "js/chunk-vendors.5570ca2c.js",
