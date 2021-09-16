@@ -4,7 +4,7 @@
   "ios_identifier": "",
   "android_identifier": "https://vue.solarbubble.vercel.app/app-debug.apk",
   "update": "start",
-  "min_native_interface": 1,
+  "min_native_interface": 2,
   "content_url": "https://vue.solarbubble.vercel.app/",
   "release": "2021.09.16-17.06.33"
 }
