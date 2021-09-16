@@ -1,1 +1,8 @@
-这是json文件
+{
+  "name": "aiblue",
+  "ios_identifier": "",
+  "android_identifier": "1",
+  "update": "start",
+  "content_url": "https://vue.solarbubble.vercel.app/",
+  "release": "2021.09.16-11.28.29"
+}
