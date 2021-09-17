@@ -1,7 +1,7 @@
 [
   {
-    "file": "css/app.5c800650.css",
-    "hash": "a975d941c6abb92fd503f8f535cce050"
+    "file": "css/app.72fd7efa.css",
+    "hash": "adcebc5b53115d8bcfd5fe55801064ea"
   },
   {
     "file": "css/chunk-09f13312.cf6ea22a.css",
@@ -101,15 +101,15 @@
   },
   {
     "file": "index.html",
-    "hash": "a83be683dfb0659ee5cb1fa5558532ae"
+    "hash": "634173c75c7ac3987e2477d0eb3c8923"
   },
   {
-    "file": "js/app.985f6708.js",
-    "hash": "a4f22ff8ae9636782f8789218afb4f12"
+    "file": "js/app.cfe41fe2.js",
+    "hash": "2102f3228620a5289366a936fde5c31f"
   },
   {
-    "file": "js/app.985f6708.js.map",
-    "hash": "7727f7e21709de01ffdb74787b6ecf06"
+    "file": "js/app.cfe41fe2.js.map",
+    "hash": "5024796d826756302f9a0d81da1af9b4"
   },
   {
     "file": "js/chunk-09f13312.4b8d2456.js",
